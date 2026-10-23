@@ -1,0 +1,1 @@
+print('Hello, Digital Image Processing!')
